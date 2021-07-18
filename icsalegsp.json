@@ -1,0 +1,10 @@
+{
+  "name": "icsalegsp",
+  "description": "Icsalegsp",
+  "repository": "https://github.com/thatdsguy/icsalegsp",
+  "keywords": ["python", "tornado"],
+  "success_url": "/",
+  "env": {
+      "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-python"
+  }
+}
